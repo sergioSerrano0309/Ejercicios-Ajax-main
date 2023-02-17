@@ -1,0 +1,10 @@
+div
+{
+    margin-top: 1%;
+    min-height: 22px;
+    border: 1px solid black;
+}
+.nombreInfo
+{
+    text-align: center;
+}
